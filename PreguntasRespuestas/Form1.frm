@@ -93,7 +93,7 @@ Begin VB.Form Form1
    Begin VB.Label Label2 
       AutoSize        =   -1  'True
       BackColor       =   &H00FFFFFF&
-      Caption         =   "¿ Quien Mató al Minotauro ?"
+      Caption         =   "Â¿ Quien MatÃ³ al Minotauro ?"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   20.25
@@ -146,14 +146,14 @@ End Sub
 
 Private Sub Text1_Change()
 If Text1.Text = "Teseo" Then
-Label2.Caption = "¿Cómo se llama el Dios del Vino de los Romanos?"
+Label2.Caption = "Â¿CÃ³mo se llama el Dios del Vino de los Romanos?"
 Text1.Visible = False
 Text2.Visible = True
 End If
 End Sub
 
 Private Sub Text10_Change()
-If Text10.Text = "Rómulo y Remo" Then
+If Text10.Text = "RÃ³mulo y Remo" Then
 Label2.Caption = "Sabes algo de Historia"
 Text10.Visible = False
 End If
@@ -161,7 +161,7 @@ End Sub
 
 Private Sub Text2_Change()
 If Text2.Text = "Baco" Then
-Label2.Caption = "¿Cómo se llama el Rey de la Isla de Creta?"
+Label2.Caption = "Â¿CÃ³mo se llama el Rey de la Isla de Creta?"
 Text2.Visible = False
 Text3.Visible = True
 End If
@@ -169,7 +169,7 @@ End Sub
 
 Private Sub Text3_Change()
 If Text3.Text = "Minos" Then
-Label2.Caption = "Jasón y los..."
+Label2.Caption = "JasÃ³n y los..."
 Text3.Visible = False
 Text4.Visible = True
 End If
@@ -177,7 +177,7 @@ End Sub
 
 Private Sub Text4_Change()
 If Text4.Text = "Argonautas" Then
-Label2.Caption = "Cómo se llama el Dios de la Momificación?"
+Label2.Caption = "CÃ³mo se llama el Dios de la MomificaciÃ³n?"
 Text4.Visible = False
 Text5.Visible = True
 End If
@@ -185,40 +185,40 @@ End Sub
 
 Private Sub Text5_Change()
 If Text5.Text = "Anubis" Then
-Label2.Caption = "Cual fue el Primer Código de Leyes de la Humanidad?"
+Label2.Caption = "Cual fue el Primer CÃ³digo de Leyes de la Humanidad?"
 Text5.Visible = False
 Text6.Visible = True
 End If
 End Sub
 
 Private Sub Text6_Change()
-If Text6.Text = "El Código de Hammurabi" Then
-Label2.Caption = "¿Cuál es el Libro Sagrado de los Musulmanes?"
+If Text6.Text = "El CÃ³digo de Hammurabi" Then
+Label2.Caption = "Â¿CuÃ¡l es el Libro Sagrado de los Musulmanes?"
 Text6.Visible = False
 Text7.Visible = True
 End If
 End Sub
 
 Private Sub Text7_Change()
-If Text7.Text = "El Corán" Then
+If Text7.Text = "El CorÃ¡n" Then
 Text7.Visible = False
 Text8.Visible = True
-Label2.Caption = "¿Cómo se llama el Dios de los Cielos(Egipcio)?"
+Label2.Caption = "Â¿CÃ³mo se llama el Dios de los Cielos(Egipcio)?"
 End If
 End Sub
 
 Private Sub Text8_Change()
 If Text8.Text = "Horus" Then
-Label2.Caption = "¿Qué es el Principado?"
+Label2.Caption = "Â¿QuÃ© es el Principado?"
 Text9.Visible = True
 Text8.Visible = False
 End If
 End Sub
 
 Private Sub Text9_Change()
-If Text9.Text = "Monarquía Encubierta" Then
+If Text9.Text = "MonarquÃ­a Encubierta" Then
 Text9.Visible = False
 Text10.Visible = True
-Label2.Caption = "Cómo se llamaban los Hermanos que Amamantó la Loba Capitolina?"
+Label2.Caption = "CÃ³mo se llamaban los Hermanos que AmamantÃ³ la Loba Capitolina?"
 End If
 End Sub
