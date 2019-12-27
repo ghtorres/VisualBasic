@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Form1 
-   Caption         =   "M·quina de Bebidas"
+   Caption         =   "M√°quina de Bebidas"
    ClientHeight    =   3090
    ClientLeft      =   60
    ClientTop       =   450
@@ -22,7 +22,7 @@ Begin VB.Form Form1
    End
    Begin VB.OptionButton Option5 
       BackColor       =   &H00FF0000&
-      Caption         =   "Anan·"
+      Caption         =   "Anan√°"
       Height          =   255
       Left            =   9600
       Style           =   1  'Graphical
@@ -71,7 +71,7 @@ Begin VB.Form Form1
    End
    Begin VB.OptionButton Option3 
       BackColor       =   &H0000FFFF&
-      Caption         =   "LimÛn"
+      Caption         =   "Lim√≥n"
       Height          =   255
       Left            =   7560
       Style           =   1  'Graphical
