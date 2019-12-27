@@ -52,7 +52,7 @@ Begin VB.Form Form1
    Begin VB.Label Label8 
       BackColor       =   &H00000000&
       BorderStyle     =   1  'Fixed Single
-      Caption         =   " ! Perdiste Pelotudo ก"
+      Caption         =   " ! Perdiste Pelotudo ยก"
       BeginProperty Font 
          Name            =   "Comic Sans MS"
          Size            =   20.25
@@ -73,7 +73,7 @@ Begin VB.Form Form1
    Begin VB.Label Label7 
       BackColor       =   &H00000000&
       BorderStyle     =   1  'Fixed Single
-      Caption         =   " ! Ganaste ก"
+      Caption         =   " ! Ganaste ยก"
       BeginProperty Font 
          Name            =   "Comic Sans MS"
          Size            =   24
