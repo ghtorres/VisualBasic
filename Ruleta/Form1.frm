@@ -131,7 +131,7 @@ Begin VB.Form Form1
    End
    Begin VB.CheckBox Check44 
       BackColor       =   &H0000C000&
-      Caption         =   "3° Docena"
+      Caption         =   "3Â° Docena"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   12
@@ -151,7 +151,7 @@ Begin VB.Form Form1
    End
    Begin VB.CheckBox Check43 
       BackColor       =   &H0000C000&
-      Caption         =   "2° Docena"
+      Caption         =   "2Â° Docena"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   12
@@ -171,7 +171,7 @@ Begin VB.Form Form1
    End
    Begin VB.CheckBox Check42 
       BackColor       =   &H0000C000&
-      Caption         =   "1° Docena"
+      Caption         =   "1Â° Docena"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   12
@@ -191,7 +191,7 @@ Begin VB.Form Form1
    End
    Begin VB.CheckBox Check41 
       BackColor       =   &H0000C000&
-      Caption         =   "3° Col"
+      Caption         =   "3Â° Col"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   14.25
@@ -211,7 +211,7 @@ Begin VB.Form Form1
    End
    Begin VB.CheckBox Check40 
       BackColor       =   &H0000C000&
-      Caption         =   "2° Col"
+      Caption         =   "2Â° Col"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   14.25
@@ -231,7 +231,7 @@ Begin VB.Form Form1
    End
    Begin VB.CheckBox Check39 
       BackColor       =   &H0000C000&
-      Caption         =   "1° Col"
+      Caption         =   "1Â° Col"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   14.25
@@ -1040,7 +1040,7 @@ Begin VB.Form Form1
    End
    Begin VB.Label Label7 
       BackColor       =   &H00000000&
-      Caption         =   " Lo Lamento Señor ya ha Jugado Demasiado, tendré que pedirle que se Retire"
+      Caption         =   " Lo Lamento SeÃ±or ya ha Jugado Demasiado, tendrÃ© que pedirle que se Retire"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   21.75
@@ -2376,7 +2376,7 @@ Label3.BackColor = vbBlack
 Label3.ForeColor = vbRed
 Label5.Visible = False
 Label7.Visible = False
-Label7.Caption = " Lo Lamento Señor ya ha Jugado Demasiado, tendré que pedirle que se Retire"
+Label7.Caption = " Lo Lamento SeÃ±or ya ha Jugado Demasiado, tendrÃ© que pedirle que se Retire"
 For i = o To 2
 Image1(i).Visible = True
 Image1(i).Stretch = True
