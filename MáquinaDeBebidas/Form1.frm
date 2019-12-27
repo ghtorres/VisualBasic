@@ -299,7 +299,7 @@ Begin VB.Form Form1
    End
    Begin VB.Label Label52 
       BackColor       =   &H00C0C0C0&
-      Caption         =   " Torres Gastón Company"
+      Caption         =   " Torres GastÃ³n Company"
       BeginProperty Font 
          Name            =   "Comic Sans MS"
          Size            =   12
