@@ -1,0 +1,29 @@
+04:18 p.m. 25/06/2006
+
+ Instrucciones para la pelota en el Fronton:
+
+Tecla 1: Pausa
+
+Tecla 2: Reanudar juego
+
+Tecla 3: Cambiar el color al Fondo
+
+Tecla O: Cambiarle la forma a la Raqueta y convertirla en Ovalo
+
+Tecla R: Cambiarle la forma a la Raqueta y convertirla en Rectángulo
+con puntas redondeadas
+
+Tecla N: Cambiarle la forma a la Raqueta y convertirla a Normal
+
+Tecla C: Cambiarle le Color a la Raqueta
+
+Tecla B: Cambiarle el color a la Bola
+
+Tecla Derecha: Aumentar el tamaño a la Raqueta
+
+Tecla Izquierda: Disminuir el tamaño a la Raqueta
+
+Tecla Enter: Comenzar el Juego
+
+Reglas: El juego termina cuando el marcador de puntos llega o supera
+los 1000 pts. Si la máquina anota tres goles: Game Over.
