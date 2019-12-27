@@ -45,7 +45,7 @@ Begin VB.Form Form1
    End
    Begin VB.Label Label7 
       AutoSize        =   -1  'True
-      Caption         =   " Presione ENTER para Iniciar la B˙squeda "
+      Caption         =   " Presione ENTER para Iniciar la B√∫squeda "
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   26.25
@@ -63,7 +63,7 @@ Begin VB.Form Form1
       Width           =   10425
    End
    Begin VB.Label Label6 
-      Caption         =   "En este puesto disfrutar· de las mejores comidas rapidas incluyendo refrescantes gaseosas "
+      Caption         =   "En este puesto disfrutar√° de las mejores comidas rapidas incluyendo refrescantes gaseosas "
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   11.25
@@ -82,7 +82,7 @@ Begin VB.Form Form1
       Width           =   4215
    End
    Begin VB.Label Label6 
-      Caption         =   "AtracciÛn de vertigo. Una gran gondolagiratoria sostenida por dos enormes brazos. Altura minima 1,45m"
+      Caption         =   "Atracci√≥n de vertigo. Una gran gondolagiratoria sostenida por dos enormes brazos. Altura minima 1,45m"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   11.25
@@ -120,7 +120,7 @@ Begin VB.Form Form1
       Width           =   4080
    End
    Begin VB.Label Label6 
-      Caption         =   "MontaÒa rusa invertida. Tiene un recorrido de 600 metros con 5 vueltas invertidas y llega a una velocidad de 80 kilometros"
+      Caption         =   "Monta√±a rusa invertida. Tiene un recorrido de 600 metros con 5 vueltas invertidas y llega a una velocidad de 80 kilometros"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   11.25
@@ -139,7 +139,7 @@ Begin VB.Form Form1
       Width           =   4035
    End
    Begin VB.Label Label6 
-      Caption         =   "Ac· podr· ver los mejores espect·culos musicales con la presencia de Cara de Barro capacidad 1000 personas "
+      Caption         =   "Ac√° podr√° ver los mejores espect√°culos musicales con la presencia de Cara de Barro capacidad 1000 personas "
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   11.25
@@ -210,7 +210,7 @@ Begin VB.Form Form1
    End
    Begin VB.Label Label4 
       AutoSize        =   -1  'True
-      Caption         =   "Caracteristicas de la atracciÛn "
+      Caption         =   "Caracteristicas de la atracci√≥n "
       BeginProperty Font 
          Name            =   "Viner Hand ITC"
          Size            =   12
@@ -382,7 +382,7 @@ Begin VB.Form Form1
    End
    Begin VB.Label Label1 
       AutoSize        =   -1  'True
-      Caption         =   "Nombre de atracciÛn que desea encontrar:"
+      Caption         =   "Nombre de atracci√≥n que desea encontrar:"
       BeginProperty Font 
          Name            =   "MS Sans Serif"
          Size            =   13.5
