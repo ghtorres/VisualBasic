@@ -48,7 +48,7 @@ Begin VB.Form Form1
    Begin VB.Label Label16 
       AutoSize        =   -1  'True
       BackColor       =   &H00000000&
-      Caption         =   " ! Sos el Mejor ก "
+      Caption         =   " ! Sos el Mejor ยก "
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   36
@@ -130,7 +130,7 @@ Begin VB.Form Form1
    Begin VB.Label Label11 
       AutoSize        =   -1  'True
       BackColor       =   &H00000000&
-      Caption         =   "ก Chuza !"
+      Caption         =   "ยก Chuza !"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   72
