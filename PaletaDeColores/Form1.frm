@@ -711,7 +711,7 @@ Begin VB.Form Form1
    Begin VB.Label Label3 
       BackColor       =   &H00C0C0C0&
       BorderStyle     =   1  'Fixed Single
-      Caption         =   " ? ¿"
+      Caption         =   " ? Â¿"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   12
@@ -1082,7 +1082,7 @@ Begin VB.Form Form1
    Begin VB.Label Label3 
       BackColor       =   &H00C0C0C0&
       BorderStyle     =   1  'Fixed Single
-      Caption         =   " Ñ"
+      Caption         =   " Ã‘"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   12
