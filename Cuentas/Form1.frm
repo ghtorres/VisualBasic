@@ -82,7 +82,7 @@ Begin VB.Form Form1
    Begin VB.Label Label5 
       AutoSize        =   -1  'True
       BackColor       =   &H000000FF&
-      Caption         =   "¡Ganaste!"
+      Caption         =   "Â¡Ganaste!"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   72
