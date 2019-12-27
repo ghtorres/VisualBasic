@@ -19,7 +19,7 @@ Begin VB.Form Form1
       Width           =   2775
    End
    Begin VB.OptionButton Option6 
-      Caption         =   "Río Negro"
+      Caption         =   "RÃ­o Negro"
       Height          =   500
       Left            =   11760
       Style           =   1  'Graphical
@@ -29,7 +29,7 @@ Begin VB.Form Form1
       Width           =   1000
    End
    Begin VB.OptionButton Option5 
-      Caption         =   "Córdoba"
+      Caption         =   "CÃ³rdoba"
       Height          =   500
       Left            =   11760
       Style           =   1  'Graphical
@@ -271,7 +271,7 @@ Private Sub Form_DblClick()
 Label1.Left = Form1.Width
 Timer1.Enabled = True
 Image1.Visible = False
-Label1.Caption = "¿Conoces las Provincias de la Argentina?"
+Label1.Caption = "Â¿Conoces las Provincias de la Argentina?"
 End Sub
 
 Private Sub Form_Load()
