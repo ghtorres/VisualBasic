@@ -104,7 +104,7 @@ Begin VB.Form Form1
    Begin VB.Label Label6 
       AutoSize        =   -1  'True
       BackColor       =   &H000000FF&
-      Caption         =   "Casino El Palacio de Gastón"
+      Caption         =   "Casino El Palacio de GastÃ³n"
       BeginProperty Font 
          Name            =   "Arial"
          Size            =   48
